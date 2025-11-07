@@ -1,4 +1,4 @@
-baseURL = "https://radioinne.netlify.app/"
+baseURL = "/"
 languageCode = "pl"
 title = "Fundacja Więcej Mądrości"
 theme = "PaperMod"
