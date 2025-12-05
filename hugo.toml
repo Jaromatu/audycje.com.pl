@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://audycje.com.pl/"
 languageCode = "pl"
 title = "Fundacja Więcej Mądrości"
 theme = "PaperMod"
